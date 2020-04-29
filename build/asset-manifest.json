@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/happy-birthday/static/css/main.3c030577.chunk.css",
+    "main.js": "/happy-birthday/static/js/main.a409872e.chunk.js",
+    "main.js.map": "/happy-birthday/static/js/main.a409872e.chunk.js.map",
+    "runtime~main.js": "/happy-birthday/static/js/runtime~main.b1b52b95.js",
+    "runtime~main.js.map": "/happy-birthday/static/js/runtime~main.b1b52b95.js.map",
+    "static/js/2.9fa3dddd.chunk.js": "/happy-birthday/static/js/2.9fa3dddd.chunk.js",
+    "static/js/2.9fa3dddd.chunk.js.map": "/happy-birthday/static/js/2.9fa3dddd.chunk.js.map",
+    "index.html": "/happy-birthday/index.html",
+    "precache-manifest.ba9f38dc4c7d0d40974a9306b1bf1a12.js": "/happy-birthday/precache-manifest.ba9f38dc4c7d0d40974a9306b1bf1a12.js",
+    "service-worker.js": "/happy-birthday/service-worker.js",
+    "static/css/main.3c030577.chunk.css.map": "/happy-birthday/static/css/main.3c030577.chunk.css.map",
+    "static/media/a1.jpg": "/happy-birthday/static/media/a1.244d1153.jpg",
+    "static/media/a2.jpg": "/happy-birthday/static/media/a2.b51119be.jpg",
+    "static/media/b.jpg": "/happy-birthday/static/media/b.6f3726f2.jpg",
+    "static/media/d.jpg": "/happy-birthday/static/media/d.705cc337.jpg",
+    "static/media/h1.jpg": "/happy-birthday/static/media/h1.0ab4c4de.jpg",
+    "static/media/h2.jpg": "/happy-birthday/static/media/h2.9e1830e2.jpg",
+    "static/media/i.jpg": "/happy-birthday/static/media/i.c8ba42e5.jpg",
+    "static/media/kazdy_rano.mp3": "/happy-birthday/static/media/kazdy_rano.27a99159.mp3",
+    "static/media/p1.jpg": "/happy-birthday/static/media/p1.bcbe89d5.jpg",
+    "static/media/p2.jpg": "/happy-birthday/static/media/p2.c4310703.jpg",
+    "static/media/r.jpg": "/happy-birthday/static/media/r.74a5727f.jpg",
+    "static/media/t.jpg": "/happy-birthday/static/media/t.4740473b.jpg",
+    "static/media/y1.jpg": "/happy-birthday/static/media/y1.4142e83e.jpg",
+    "static/media/y2.jpg": "/happy-birthday/static/media/y2.626cf1fb.jpg"
+  }
+}
